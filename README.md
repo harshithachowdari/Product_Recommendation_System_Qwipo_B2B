@@ -56,6 +56,7 @@ Authentication: JWT Auth
 
 
 5. Contribution Details of Each Team Member
+
 🔹 Member 1- Harshitha – Frontend (UI/UX Developer)
 
 Built React.js dashboards (Retailer, Distributor, Admin).
