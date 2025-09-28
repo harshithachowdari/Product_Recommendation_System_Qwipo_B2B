@@ -10,7 +10,7 @@ Stagnant Order Values (AOV) → Growth has plateaued.
 
 Low Customer Retention → 35% of retailers become inactive within 6 months.
 
-2. Detailed Proposal & Prototype Plan
+2. Detailed Proposal & Prototype Plan:
 
 We propose to build an AI-Powered Product Recommendation System for Qwipo’s B2B marketplace to:
 
