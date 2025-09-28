@@ -39,10 +39,15 @@ Updates → Real-time order tracking with Socket.io.
 3. Features to be Implemented
 
 ✅ User Behavior Analytics – Capture and analyze browsing/search patterns.
+
 ✅ Purchase Pattern Recognition – Identify seasonal trends, category preferences, and repeat cycles.
+
 ✅ Personalized Recommendations – Using Collaborative, Content-based, and Hybrid AI models.
+
 ✅ Smart Cart – Suggests bulk discounts, cross-sell/upsell items.
+
 ✅ Real-Time Updates – Socket.io for live delivery tracking and order status.
+
 ✅ Multi-Dashboard Support – Retailer, Distributor, and Admin panels.
 
 4. Tech Stack Used
